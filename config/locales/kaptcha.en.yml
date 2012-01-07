@@ -1,0 +1,9 @@
+en:
+  view:
+    captcha:
+      human_line: "Please tell us: %{num_a} %{operation} %{num_b} ?"
+      error_code: "Please check antispam code."
+      operations:
+        plus: "plus"
+        minus: "minus"
+        multiply_by: "multiply by"

@@ -1,0 +1,5 @@
+= Captcha
+
+A simple captcha for form protection against.
+
+Author Bogdan Kulbida. Released under MIT license. 2012.
